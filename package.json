@@ -1,0 +1,16 @@
+{
+  "name": "telegram-247-bot",
+  "version": "1.0.0",
+  "description": "Telegram 24/7 Bot for Render with Keep-Alive",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
